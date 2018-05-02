@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.sidrajawaid.demoviewpager">
+=======
+    package="com.example.sidrajawaid.navdraweronactionbar">
+>>>>>>> c3d1200377bdbb510cffc777fbb0fa4d514af0f5
 
     <application
         android:allowBackup="true"
@@ -16,6 +20,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
+        <activity android:name=".Main2Activity"></activity>
+>>>>>>> c3d1200377bdbb510cffc777fbb0fa4d514af0f5
     </application>
 
 </manifest>

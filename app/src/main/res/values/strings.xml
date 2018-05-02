@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">DemoViewPager</string>
 
     <!-- TODO: Remove or change this placeholder text -->
@@ -13,4 +14,9 @@
         voluptates voluptas?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
         nesciunt nihi?Lorem  ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
         nesciunt nihil</string>
+=======
+    <string name="app_name">NavDrawerOnActionBar</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+>>>>>>> c3d1200377bdbb510cffc777fbb0fa4d514af0f5
 </resources>
