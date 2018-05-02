@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frag1"
+    android:background="@drawable/background"
+
+    tools:context=".tab1">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="110dp"
+        android:layout_height="58dp"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="108dp"
+        android:background="@drawable/logo" />
+    <TextView
+        android:id="@+id/text1"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="198dp"
+        android:textStyle="bold"
+        android:text="DEMO LOGIN " />
+    <EditText
+        android:id="@+id/ed1"
+        android:layout_width="140dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="230dp"
+        android:hint="username" />
+
+    <EditText
+        android:id="@+id/ed2"
+        android:layout_width="140dp"
+        android:hint="password"
+        android:gravity="center"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="270dp"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:id="@+id/btn1"
+        android:text="LogIn"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="320dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dp"
+        android:layout_marginLeft="100dp"
+        android:text="No account ?"
+        android:textSize="15dp"
+        android:textColor="#fff" />
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dp"
+        android:layout_marginLeft="210dp"
+        android:clickable="true"
+        android:text="Sign up"
+        android:textSize="15dp"
+        android:textColor="#fff"
+        android:textStyle="bold|italic" />
+
+</FrameLayout>
+  <!--  <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:context=".tab1">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/frag1">
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="110dp"
+            android:layout_height="58dp"
+            android:layout_marginLeft="145dp"
+            android:layout_marginTop="108dp"
+            android:background="@drawable/logo" />
+        <TextView
+            android:id="@+id/text1"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="198dp"
+            android:textStyle="bold"
+            android:text="DEMO LOGIN " />
+        <EditText
+            android:id="@+id/ed1"
+            android:layout_width="140dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="230dp"
+            android:hint="username" />
+        <EditText
+            android:id="@+id/ed2"
+            android:layout_width="140dp"
+            android:hint="password"
+            android:gravity="center"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="270dp"
+            android:layout_height="wrap_content"
+            />
+        <Button
+            android:id="@+id/btn1"
+            android:text="LogIn"
+            android:layout_marginLeft="145dp"
+            android:layout_marginTop="320dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="380dp"
+            android:layout_marginLeft="100dp"
+            android:text="No account ?"
+            android:textSize="15dp"
+            android:textColor="#fff" />
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="380dp"
+            android:layout_marginLeft="210dp"
+            android:clickable="true"
+            android:text="Sign up"
+            android:textSize="15dp"
+            android:textColor="#fff"
+            android:textStyle="bold|italic" />
+    </FrameLayout>
+    </RelativeLayout>-->

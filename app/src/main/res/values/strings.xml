@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="apptext">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
+        nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus
+        voluptates voluptasLorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
+        nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus
+        voluptates voluptas?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
+        nesciunt nihi?Lorem nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus
+        voluptates voluptasLorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
+        nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus
+        voluptates voluptas?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
+        nesciunt nihi?Lorem  ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa
+        nesciunt nihil</string>
+</resources>
